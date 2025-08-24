@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "E:\\Celeste\u002B\\ChroniaBlog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\layout\\_partial\\sidebar.ejs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\tree\\layout\\_partial\\sidebar.ejs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\layout\\layout.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\tree\\layout\\layout.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\languages\\zh-Hans.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\tree\\languages\\zh-Hans.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\tree\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\layout\\post.ejs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\tree\\layout\\post.ejs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Celeste\u002B\\ChroniaBlog\\_config.tree.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.tree.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -11,12 +31,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Celeste\u002B\\ChroniaBlog\\source\\categories\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\categories\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\tree\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\source\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\tree\\source\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +42,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\README.md",
+              "RelativeDocumentMoniker": "themes\\tree\\README.md",
+              "ToolTip": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\README.md",
+              "RelativeToolTip": "themes\\tree\\README.md",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAjwNcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-24T11:30:01.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "post.ejs",
+              "DocumentMoniker": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\layout\\post.ejs",
+              "RelativeDocumentMoniker": "themes\\tree\\layout\\post.ejs",
+              "ToolTip": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\layout\\post.ejs",
+              "RelativeToolTip": "themes\\tree\\layout\\post.ejs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAgwFoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-24T11:26:55.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "404.html",
+              "DocumentMoniker": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\source\\404.html",
+              "RelativeDocumentMoniker": "themes\\tree\\source\\404.html",
+              "ToolTip": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\source\\404.html",
+              "RelativeToolTip": "themes\\tree\\source\\404.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-24T11:25:54.356Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_config.yml",
-              "DocumentMoniker": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\_config.yml",
-              "RelativeDocumentMoniker": "themes\\tree\\_config.yml",
-              "ToolTip": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\_config.yml",
-              "RelativeToolTip": "themes\\tree\\_config.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-23T20:47:59.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_config.yml",
-              "DocumentMoniker": "E:\\Celeste\u002B\\ChroniaBlog\\_config.yml",
-              "RelativeDocumentMoniker": "_config.yml",
-              "ToolTip": "E:\\Celeste\u002B\\ChroniaBlog\\_config.yml",
-              "RelativeToolTip": "_config.yml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAhwGIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-23T20:46:36.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.md",
-              "DocumentMoniker": "E:\\Celeste\u002B\\ChroniaBlog\\source\\categories\\index.md",
-              "RelativeDocumentMoniker": "source\\categories\\index.md",
-              "ToolTip": "E:\\Celeste\u002B\\ChroniaBlog\\source\\categories\\index.md",
-              "RelativeToolTip": "source\\categories\\index.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-08-23T20:46:15.422Z",
+              "Title": "layout.ejs",
+              "DocumentMoniker": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\layout\\layout.ejs",
+              "RelativeDocumentMoniker": "themes\\tree\\layout\\layout.ejs",
+              "ToolTip": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\layout\\layout.ejs",
+              "RelativeToolTip": "themes\\tree\\layout\\layout.ejs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-24T10:50:41.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "sidebar.ejs",
+              "DocumentMoniker": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\layout\\_partial\\sidebar.ejs",
+              "RelativeDocumentMoniker": "themes\\tree\\layout\\_partial\\sidebar.ejs",
+              "ToolTip": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\layout\\_partial\\sidebar.ejs",
+              "RelativeToolTip": "themes\\tree\\layout\\_partial\\sidebar.ejs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-24T10:10:06.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "zh-Hans.yml",
+              "DocumentMoniker": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\languages\\zh-Hans.yml",
+              "RelativeDocumentMoniker": "themes\\tree\\languages\\zh-Hans.yml",
+              "ToolTip": "E:\\Celeste\u002B\\ChroniaBlog\\themes\\tree\\languages\\zh-Hans.yml",
+              "RelativeToolTip": "themes\\tree\\languages\\zh-Hans.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-24T09:47:42.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_config.tree.yml",
               "DocumentMoniker": "E:\\Celeste\u002B\\ChroniaBlog\\_config.tree.yml",
               "RelativeDocumentMoniker": "_config.tree.yml",
               "ToolTip": "E:\\Celeste\u002B\\ChroniaBlog\\_config.tree.yml",
               "RelativeToolTip": "_config.tree.yml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAADgvywAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-23T20:45:25.523Z",
+              "WhenOpened": "2025-08-24T09:46:38.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_config.yml",
+              "DocumentMoniker": "E:\\Celeste\u002B\\ChroniaBlog\\_config.yml",
+              "RelativeDocumentMoniker": "_config.yml",
+              "ToolTip": "E:\\Celeste\u002B\\ChroniaBlog\\_config.yml",
+              "RelativeToolTip": "_config.yml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-24T09:46:37.913Z",
               "EditorCaption": ""
             }
           ]

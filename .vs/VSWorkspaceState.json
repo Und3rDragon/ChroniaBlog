@@ -2,10 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\source",
-    "\\source\\categories",
+    "\\source\\_posts",
+    "\\source\\_posts\\mapping-tutorial",
+    "\\source\\_posts\\mapping-tutorial\\beta",
     "\\themes",
-    "\\themes\\tree"
+    "\\themes\\tree",
+    "\\themes\\tree\\languages",
+    "\\themes\\tree\\layout",
+    "\\themes\\tree\\layout\\_partial",
+    "\\themes\\tree\\source\\js"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\source\\_posts\\mapping-tutorial\\beta",
   "PreviewInSolutionExplorer": false
 }

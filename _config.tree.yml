@@ -12,17 +12,17 @@ favicon: /favicon.ico
 ####### header bar #####
 # before set to true, please maker sure you've created hexo tags\categories\about pages
 tags: false
-categories: true
+categories: false
 about: false
 links:
     # GitHub links£¬start with http¡¢https or //
-    github: https://github.com/wujun234
+    github: https://github.com/Und3rDragon
     # normal links£¬support multiple
     custom:
-      - name: Tree
-        URL: https://github.com/wujun234/hexo-theme-tree
-      - name: UidGenerator
-        URL: https://github.com/wujun234/uid-generator-spring-boot-starter
+      - name: Bilibili
+        URL: https://space.bilibili.com/385549584
+      - name: Website Source
+        URL: https://github.com/Und3rDragon/ChroniaBlog
 
 ####### sidebar #####
 sidebar:
@@ -42,7 +42,7 @@ giscus:
     emit_metadata: "0"
     input_position: "top"
     theme: "preferred_color_scheme"
-    lang: "en"
+    lang: "zh-Hans"
 # optional, valine
 valine:
     enableComment: false
@@ -67,4 +67,4 @@ style:
 searchEngine: https://www.baidu.com/s?wd=
 #searchEngine: https://www.google.com/search?q=
 # homeHost£ºtarget domain, default current page domain
-homeHost: wujun234.com
+#homeHost: wujun234.com
